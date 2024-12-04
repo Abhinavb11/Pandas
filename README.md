@@ -44,7 +44,7 @@ pip install pandas numpy openpyxl
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/pandas-colab.git
+    git clone https://github.com/Abhinavb11/Pandasnote-colab.git
     ```
 
 2. Navigate to the repository directory:
